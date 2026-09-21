@@ -5,8 +5,8 @@
 ## About
 
 To use the OpenWeatherMap API, you need an API key.
-Create one [here](https://home.openweathermap.org/users/sign_up) and create an '.env' file containing your key:
-'APIKEY=Your-API-Key'
+Create one [here](https://home.openweathermap.org/users/sign_up) and create an `.env` file containing your key:
+`APIKEY=Your-API-Key`
 
 ## Features
 
@@ -25,7 +25,7 @@ Make sure you have the following dependencies installed:
 ## What I've Learned
 
 - How to work with an API
-- Making HTTP requests using the 'requests' module
+- Making HTTP requests using the `requests` module
 - Error handling
 - Reading a JSON and obtaining certain information
 - environmental variables
